@@ -12,3 +12,9 @@ Cargo.lock
 
 # MSVC Windows builds of rustc generate these, which store debugging information
 *.pdb
+
+# Used by macOS' file system to track custom attributes of containing folder
+*.DS_Store*
+
+# Editors' specific files
+*.vscode/*
