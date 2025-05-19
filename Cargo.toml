@@ -9,7 +9,7 @@ build = "build.rs"
 
 [dependencies]
 anyhow = "1.0.71"
-rand = "0.8.5"
+rand = "0.9.1"
 tetra = "0.8.0"
 
 [build-dependencies]
